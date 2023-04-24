@@ -154,13 +154,11 @@ _기울여표현_   <br>
 :warning:
 :no_entry:
 :no_entry_sign:
+
+<br>
 :arrow_up::arrow_right::arrow_down::arrow_left:
 :arrow_up_down::left_right_arrow:
-<br>
 :leftwards_arrow_with_hook::arrow_right_hook::arrow_heading_up::arrow_heading_down:	:arrows_clockwise::arrows_counterclockwise::twisted_rightwards_arrows:	:repeat:
-
-<br>
-
 :arrow_forward::fast_forward::arrow_backward::arrow_up_small:	:arrow_down_small::stop_button: :record_button::pause_button:<br>
 :back::end::soon::top::on:
 
