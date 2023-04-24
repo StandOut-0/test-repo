@@ -59,7 +59,7 @@ _기울여표현_   <br>
 :joy:
 :smiling_face_with_three_hearts:
 :heart_eyes:
-:kissing_heart:	t
+:kissing_heart:
 :yum:
 
 <br>
