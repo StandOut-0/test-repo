@@ -186,7 +186,7 @@ _기울여표현_   <br>
 <br>
 :copyright::registered:
 
-<br>
+<br><br>
 :hash::asterisk:
 
 <br>
