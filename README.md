@@ -155,10 +155,7 @@ _기울여표현_   <br>
 :no_entry:
 :no_entry_sign:
 :arrow_up::arrow_right::arrow_down::arrow_left:
-
-<br>
 :arrow_up_down::left_right_arrow:
-
 <br>
 :leftwards_arrow_with_hook::arrow_right_hook::arrow_heading_up::arrow_heading_down:	:arrows_clockwise::arrows_counterclockwise::twisted_rightwards_arrows:	:repeat:
 
