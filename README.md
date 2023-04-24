@@ -162,7 +162,7 @@ _기울여표현_   <br>
 :arrow_forward::fast_forward::arrow_backward::arrow_up_small:	:arrow_down_small::stop_button: :record_button::pause_button:<br>
 :back::end::soon::top::on:
 
-<br>
+<br><br>
 :heavy_multiplication_x:
 :heavy_plus_sign:
 :heavy_minus_sign:
