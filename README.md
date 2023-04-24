@@ -154,8 +154,6 @@ _기울여표현_   <br>
 :warning:
 :no_entry:
 :no_entry_sign:
-
-<br>
 :arrow_up::arrow_right::arrow_down::arrow_left:
 
 <br>
@@ -188,8 +186,6 @@ _기울여표현_   <br>
 
 <br><br>
 :hash::asterisk:
-
-<br>
 :zero:	:one::two::three::four::five::six::seven::eight::nine::keycap_ten:	
 
 <br>
